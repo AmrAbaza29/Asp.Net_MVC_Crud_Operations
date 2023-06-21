@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\bin\Debug\net7.0\Ticket.DAL.deps.json
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\bin\Debug\net7.0\Ticket.DAL.runtimeconfig.json
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\bin\Debug\net7.0\Ticket.DAL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\bin\Debug\net7.0\Ticket.DAL.pdb
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\refint\Ticket.DAL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.pdb
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\Ticket.DAL.genruntimeconfig.cache
+C:\Users\PC\source\repos\Lab06\Ticket.DAL\obj\Debug\net7.0\ref\Ticket.DAL.dll

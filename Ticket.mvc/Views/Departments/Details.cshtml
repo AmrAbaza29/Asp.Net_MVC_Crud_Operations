@@ -1,0 +1,31 @@
+﻿@using Tickets.BL;
+@model DepartmentDetailsVM;
+
+
+<div class="card">
+    <div class="card-header text-center fw-bold ">
+        <p class="text-decoration-underline">View Department Details</p>
+        <p>@Model.Name Department</p>
+    </div>
+    <div class="card-body">
+        <h5 class="card-title text-center">Department Id: @Model.Id</h5>
+        <hr />
+        <p class="card-text text-decoration-underline text-center fw-bold">Tickets</p>
+        
+            @foreach (var t in Model.Tickets)
+            {
+            <ul>
+                <li>Created Date: @t.CreatedDate</li>
+                <li>Description: @t.Description</li>
+                <li>Priority: @t.Priority</li>
+                
+            </ul>
+            <p class="btn btn-success d-flex justify-content-center"><a class="text-white text-decoration-none " href="/Tickets/Details/@t.Id">Details</a></p>
+                <hr />
+            }
+        
+        <div class="text-center">
+            <a href="/Departments/" class="btn btn-primary">Back To List</a>
+        </div>
+    </div>
+</div>

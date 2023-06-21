@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.BL.deps.json
+C:\Users\PC\source\repos\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.BL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.BL.pdb
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.csproj.CopyComplete
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\refint\Tickets.BL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.pdb
+C:\Users\PC\source\repos\Lab06\Ticket.BL\obj\Debug\net7.0\ref\Tickets.BL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.DAL.dll
+C:\Users\PC\source\repos\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.DAL.pdb
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.BL.deps.json
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.BL.dll
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.BL.pdb
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.DAL.dll
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\bin\Debug\net7.0\Tickets.DAL.pdb
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.csproj.CopyComplete
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.dll
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\refint\Tickets.BL.dll
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\Tickets.BL.pdb
+C:\Users\PC\Desktop\New folder (2)\Lab06\Ticket.BL\obj\Debug\net7.0\ref\Tickets.BL.dll

@@ -1,0 +1,66 @@
+﻿@using Tickets.BL;
+@model IEnumerable<TicketReadVM>;
+
+@{
+    var operation = TempData[Constants.Operation] as string;
+}
+<h2 class="text-center bg-success bg-opacity-15 p-4 mb-5 rounded-3">Tickets</h2>
+<h3 class="w-100 text-center btn btn-outline-primary">
+    <a href="/Tickets/Add" class="text-decoration-none text-black">Add Ticket</a>
+</h3>
+
+<table class="table table-hover table-striped text-center">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Reservation Day</th>
+            <th scope="col">Description</th>
+            <th scope="col">Priority</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var t in Model)
+        {
+            <tr>
+                <td>@t.Id</td>
+                <td>@t.CreatedDate.ToShortDateString()</td>
+                <td>@t.Description</td>
+                <td>@t.Priority</td>
+                <td>
+                    <ul class="d-flex flex-wrap list-unstyled justify-content-around">
+                        <li><a class="btn btn-outline-primary" href="/Tickets/Details/@t.Id">Details</a></li>
+                        <li><a class="btn btn-outline-success" href="/Tickets/Edit/@t.Id">Edit</a></li>
+                        <li>
+                            <form asp-action="Delete" asp-route-Id="@t.Id" method="post">
+                                <button class="btn btn-outline-danger">Delete</button>
+                            </form>
+                        </li>
+                    </ul>
+                </td>
+            </tr> 
+        }        
+    </tbody>
+</table>
+
+@switch (operation)
+{
+    case "Add":
+        <div class="alert alert-success" role="alert">
+            Added Successfully
+        </div>
+        break;
+    case "Edit":
+        <div class="alert alert-warning" role="alert">
+            Edited Successfully
+        </div>
+        break;
+    case "Delete":
+        <div class="alert alert-danger" role="alert">
+            Deleted Successfully
+        </div>
+        break;
+    default:
+        <div></div>
+        break;
+}
