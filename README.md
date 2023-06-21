@@ -6,6 +6,6 @@ This application's 3 layers:
   -Data: Models and Context  
   -Repositories: Which access context and perform operations.  
   -UnitOfWork  
-2- Business Layers: It Has Managers which deals with the DAL  Cancel changes
+2- Business Layers: It Has Managers which deals with the DAL  
 3- Presentation Layer: Which is responsible for views and controllers   
 
